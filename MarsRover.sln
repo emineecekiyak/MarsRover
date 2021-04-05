@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRover.ConsoleApp", "MarsRover.ConsoleApp\MarsRover.ConsoleApp.csproj", "{0041259F-7E2D-488E-B294-3836CB644D27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRover.Business", "MarsRover.Business\MarsRover.Business.csproj", "{594D5DE1-BDDD-41E5-BED3-57461E081914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRover.Common", "MarsRover.Common\MarsRover.Common.csproj", "{E2477DE7-384B-4A59-8911-C62B459644FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRover.Contracts", "MarsRover.Contracts\MarsRover.Contracts.csproj", "{DD465148-272E-401F-8EB3-205F30CF00DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0041259F-7E2D-488E-B294-3836CB644D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0041259F-7E2D-488E-B294-3836CB644D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0041259F-7E2D-488E-B294-3836CB644D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0041259F-7E2D-488E-B294-3836CB644D27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{594D5DE1-BDDD-41E5-BED3-57461E081914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594D5DE1-BDDD-41E5-BED3-57461E081914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594D5DE1-BDDD-41E5-BED3-57461E081914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594D5DE1-BDDD-41E5-BED3-57461E081914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2477DE7-384B-4A59-8911-C62B459644FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2477DE7-384B-4A59-8911-C62B459644FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2477DE7-384B-4A59-8911-C62B459644FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2477DE7-384B-4A59-8911-C62B459644FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD465148-272E-401F-8EB3-205F30CF00DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD465148-272E-401F-8EB3-205F30CF00DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD465148-272E-401F-8EB3-205F30CF00DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD465148-272E-401F-8EB3-205F30CF00DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
